@@ -37,3 +37,11 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the PgDumper project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/pg_dumper/blob/main/CODE_OF_CONDUCT.md).
+
+
+
+## Inspirate / Where I stole code from
+
+- https://gist.github.com/hopsoft/56ba6f55fe48ad7f8b90
+- https://gist.github.com/joelvh/f50b8462611573cf9015e17d491a8a92
+- https://gist.github.com/ntamvl/7a6658b4cd82d6fbd15434f0a9953411
